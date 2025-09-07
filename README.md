@@ -24,46 +24,45 @@ My expertise includes:
 ## 🔧 Technologies and Stack (Icons)
 
 ### Frontend
-![HTML5](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html.svg) HTML5  
-![CSS3](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css.svg) CSS3  
-![JavaScript](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/javascript.svg) JavaScript  
-![TypeScript](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/typescript.svg) TypeScript  
-![React](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/react.svg) React  
-![Vue.js](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/vue.svg) Vue.js  
-![Angular](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/angular.svg) Angular  
-![Svelte](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/svelte.svg) Svelte  
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/tailwindcss.svg) Tailwind CSS  
-![Bootstrap](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/bootstrap.svg) Bootstrap  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React  
+![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg) Vue.js  
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) Angular  
+![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg) Svelte  
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) Tailwind CSS  
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg) Bootstrap  
 
 ### Backend
-![Node.js](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/nodejs.svg) Node.js  
-![Express](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/express.svg) Express  
-![NestJS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/nestjs.svg) NestJS  
-![MongoDB](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/mongodb.svg) MongoDB  
-![GraphQL](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/graphql.svg) GraphQL  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js  
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) Express  
+![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg) NestJS  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB  
+![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg) GraphQL  
 
 ### Servers & Hosting
-![AWS](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/aws.svg) AWS  
-![Azure](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/azure.svg) Azure  
-![Google Cloud](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/googlecloud.svg) Google Cloud  
-![DigitalOcean](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/digitalocean.svg) DigitalOcean  
-![Vercel](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/vercel.svg) Vercel  
-![Netlify](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/netlify.svg) Netlify  
-![Heroku](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/heroku.svg) Heroku  
-![Nginx](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/nginx.svg) Nginx  
-![Apache](https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/apache.svg) Apache  
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) AWS  
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) Azure  
+![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) Google Cloud  
+![DigitalOcean](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg) DigitalOcean  
+![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg) Vercel  
+![Netlify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg) Netlify  
+![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg) Heroku  
+![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg) Nginx  
+![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg) Apache  
 
 ---
 
-## 🌍 Animated Language Flags
+## 🌍 Country Flags
 
-![UA](https://cdn.jsdelivr.net/gh/Malith-Rukshan/animated-country-flags/webp/UA.webp)  
-![JP](https://cdn.jsdelivr.net/gh/Malith-Rukshan/animated-country-flags/webp/JP.webp)  
-![FR](https://cdn.jsdelivr.net/gh/Malith-Rukshan/animated-country-flags/webp/FR.webp)  
-![DE](https://cdn.jsdelivr.net/gh/Malith-Rukshan/animated-country-flags/webp/DE.webp)  
+![Ukraine](https://flagcdn.com/w20/ua.png) Ukraine  
+![Japan](https://flagcdn.com/w20/jp.png) Japan  
+![France](https://flagcdn.com/w20/fr.png) France  
+![Germany](https://flagcdn.com/w20/de.png) Germany  
+![USA](https://flagcdn.com/w20/us.png) USA  
 …and more languages  
-
-[🌐 Switch Language Version](https://aniplex.jp)
 
 ---
 
